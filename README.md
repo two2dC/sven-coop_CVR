@@ -1,6 +1,6 @@
 # sven-coop_CVR
 Aqui va a estar todos los mods de svencito (parche en español, skins y mapas) .
--
+
 PASOS PARA INSTALAR LOS MODS
 -
 1)Descargar el contenido de este repositorio. (El archivo ".md" y ".gitattributes" no se utilizan en la instalación del mod, lo pueden borrar).
